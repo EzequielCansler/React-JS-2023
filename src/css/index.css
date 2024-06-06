@@ -1,0 +1,41 @@
+.App {
+  background-color: palegoldenrod;
+}
+.ProductCss {
+  margin: auto;
+  width: 60%;
+  border: 3px solid #73ad21;
+  padding: 10px;
+}
+.titleProduct {
+  background-color: rgb(146, 146, 36);
+  margin: auto;
+  font-size: 15px;
+}
+.titleH1 {
+  margin: 0%;
+  background-color: rgb(243, 30, 30);
+  align-items: center;
+  text-align: center;
+}
+label {
+  display: block;
+
+  line-height: 150%;
+  font-size: 0.85em;
+}
+input {
+  position: relative;
+  display: block;
+
+  line-height: 150%;
+  font-size: 0.85em;
+}
+button {
+  margin-top: 10px;
+}
+.navBar {
+  background-color: yellow;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 30px;
+}

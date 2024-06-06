@@ -1,0 +1,12 @@
+.inputUser {
+  font-family: Verdana, Geneva, Tahoma, sans-serif, bold;
+  padding: 20px;
+  width: 300px;
+  background-color: rgb(75, 176, 216);
+  border-radius: 5px;
+  color: white;
+}
+.text {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  width: 300px;
+}
